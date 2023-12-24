@@ -54,7 +54,7 @@ div{
     }
 }
 
-@media screen and (min-width: 773px) and (max-width: 998px) {
+@media screen and (min-width: 998px) {
     div {
         width: 30%;
     }
